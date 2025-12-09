@@ -1,9 +1,9 @@
 # Enterprise Payroll Management System Backend
 
-## 🚀 Project Overview
+Project Overview
 This represents the backend core of a Payroll Management System designed with **Spring Boot 3.5.x** and **Java 25**. The project demonstrates a clean, scalable **Layered Architecture** typical of modern enterprise applications, focusing on robust security, clean code principles, and RESTful standards.
 
-## 🛠 Tech Stack
+Tech Stack
 - **Core:** Java 25, Spring Boot 3.5.6
 - **Database:** PostgreSQL, Spring Data JPA (Hibernate)
 - **Security:** Spring Security 6, JWT (JSON Web Token), BCrypt
